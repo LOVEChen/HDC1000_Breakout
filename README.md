@@ -18,6 +18,6 @@ The HDC1000 is a digital humidity sensor with integrated temperature sensor. Mor
 * **R4, R5:** 10k ohm, pull-down resistors to GND for address selection.
 * **ADR0, ADR1** solder jumpers to VCC, connect to change the chip address (default: 0x41).
 
-You can visit my website at www.truzzi.me. Arduino library [here](https://github.com/ftruzzi/HDC1000-Arduino)
+You can visit my website at www.truzzi.me. Arduino library [here](https://github.com/ftruzzi/HDC1000-Arduino).
 
 Any suggestions or comments are appreciated!
